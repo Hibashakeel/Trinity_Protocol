@@ -16,12 +16,4 @@ A modern, immersive, and interactive landing page designed with a futuristic aes
 - **CSS3:** Custom animations, Flexbox/Grid, and glassmorphism styling.
 - **JavaScript (Vanilla):** Custom cursor logic, scroll listeners, and Canvas API for background effects.
 
-## 🚀 Getting Started
 
-### Prerequisites
-You only need a modern web browser (Chrome, Firefox, Edge, or Safari).
-
-### Installation
-1. Clone the repository:
-   ```bash
-   git clone [https://github.com/your-username/techathon.git](https://github.com/your-username/techathon.git)
